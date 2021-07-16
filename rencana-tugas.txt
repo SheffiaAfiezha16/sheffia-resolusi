@@ -3,6 +3,7 @@ RENCANA TUGAS AKHIR
 - Javascript 
   * ES6
   * Framework Javascript
+- Struktur Data Dasar 
 - PHP Frameworks
 - Report 
 - Implementations 
