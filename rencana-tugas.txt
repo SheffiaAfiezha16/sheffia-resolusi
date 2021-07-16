@@ -3,7 +3,11 @@ RENCANA TUGAS AKHIR
 - Javascript 
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar 
 - PHP Frameworks
+  ^ CodeIgniter
 - Report 
 - Implementations 
+- Python
