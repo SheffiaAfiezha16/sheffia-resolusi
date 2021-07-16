@@ -1,6 +1,8 @@
 RENCANA TUGAS AKHIR 
 
 - Javascript 
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Report 
 - Implementations 
